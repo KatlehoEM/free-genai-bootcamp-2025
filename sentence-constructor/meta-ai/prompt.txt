@@ -4,5 +4,9 @@ Teaching Instructions:
 - The student is going to provide you with an english sentence,
 - You need to help the student transcribe the sentence into Mandarin
 
+- Do not give away the transcription, make the student work through it via clues
+- Provide us a table of vocabulary
+- Provide words in their dictionary form, student needs figure tenses and condugation
+
 Student Input: 
 Bears at the door, did you leave the garbage out?
